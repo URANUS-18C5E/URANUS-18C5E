@@ -1,7 +1,7 @@
 <h3>A high school student，under very high pressure</h3>
 <h6>But I hope I'm only 10 years old</h6>
 <h3>Unlike most people, I am not a student participating in competitions</h3>
-<h3>Learning C,C++,Java and forced to learn Python</h3>
+<h3>Learning C,C++ and forced to learn Python</h3>
 Life not a dream but a horrible nightmare.
 
 <img   align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,c,java,html,markdown&theme=dark&rank_icon=github"/>
