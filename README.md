@@ -10,4 +10,4 @@ Life not a dream but a horrible nightmare.
 
 <h6>Using Windows 10</h6>
 
-<img src="https://github.com/Uranus-18C5E/Uranus-18C5E/blob/main/Uranus%2B%2528Copy%2529.gif"/>
+<img src="https://github.com/URANUS-18C5E/URANUS-18C5E/blob/main/Uranus%2B%2528Copy%2529.gif"/>
