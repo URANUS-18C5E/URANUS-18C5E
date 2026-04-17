@@ -1,7 +1,7 @@
 <h3>A high school student and don't know anything...</h3>
 <h3>Unlike most people, I am not a student participating in competitions</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=URANUS-18C5E&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-repo-language?username=URANUS-18C5E&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uranus-18C5E&theme=dark )
 
