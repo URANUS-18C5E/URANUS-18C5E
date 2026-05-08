@@ -3,7 +3,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=URANUS-18C5E&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=URANUS-18C5E&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uranus-18C5E&theme=dark )
 
